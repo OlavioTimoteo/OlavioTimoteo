@@ -3,7 +3,7 @@
 
 - Sou o Olávio Timóteo, estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e Graduando em Engenharia da Computação.
 <!--🔭 I’m currently working on ...--> 
-- 🌱 Estou atualmente aprofundando meus conhecimentos em HTML, CSS e JavaScript learning
+- 🌱 Estou atualmente aprofundando meus conhecimentos em HTML, CSS e JavaScript
 - 👯 Estou procurando colaborar em projetos front-end
 - 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/)
 
