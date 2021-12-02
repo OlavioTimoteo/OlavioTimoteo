@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-- Sou o Olávio Timóteo, estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/) e Graduando em Engenharia da Computação.
+- Sou o Olávio Timóteo, desenvolvedor Front-end e estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
 <!--🔭 I’m currently working on ...--> 
-- 🌱 Estou atualmente aprofundando meus conhecimentos em React JS
-- 👯 Estou procurando colaborar em projetos front-end
-- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/)
+- 🌱 Estou atualmente aprofundando meus conhecimentos em Back-end.
+- 👯 Estou procurando colaborar em projetos web.
+- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/).
 
 * _A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento._ 
 _Platão_
@@ -17,12 +17,13 @@ _Platão_
 </div>
 <div style="display: inline_block"><br>
   
-  
-  <img align="center" alt="Olavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Olavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Olavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Olavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Olavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Olavio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Olavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+ <img align="center" alt="Olavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Olavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Olavio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Olavio-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
   
   ##
