@@ -5,7 +5,7 @@
 <!--🔭 I’m currently working on ...--> 
 - 🌱 Estou atualmente aprofundando meus conhecimentos em Back-end.
 - 👯 Estou procurando colaborar em projetos web.
-- 💬 Pergunte-me sobre a [Trybe](https://www.betrybe.com/).
+- 💬 Conheça meu [Portfólio](https://portfolio-olavio-timoteo.vercel.app/).
 
 * _A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento._ 
 _Platão_
