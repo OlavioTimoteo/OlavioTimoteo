@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-- Sou o Olávio Timóteo, desenvolvedor Front-end e estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/).
+- Sou o Olávio Timóteo, desenvolvedor Web Full-Stack.
 <!--🔭 I’m currently working on ...--> 
-- 🌱 Estou atualmente aprofundando meus conhecimentos em Python.
+- 🌱 Estou atualmente trabalhando como Software Developer Front-end.
 - 👯 Estou procurando colaborar em projetos web.
 
 * _A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento._ 
